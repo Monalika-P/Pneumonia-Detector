@@ -1,1 +1,1 @@
-# Rapid_Pneumonia_detector
+# Pneumonia detector
